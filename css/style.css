@@ -260,15 +260,6 @@ body.faqshtml {
     max-width: 100%;
     width: 100%;
 }
-.faqs h1{
-    text-align: center;
-}
-.faqs p {
-    text-align: center;
-}
-.faqs h2{
-    text-align: center;
-}
 
 main{
     display: grid;
