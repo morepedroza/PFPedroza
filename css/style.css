@@ -229,6 +229,7 @@ body.productos {
 
 /* F0E8E2 fondo de faqs */ 
 /* A39087 fondo contacto */
+/*NOSOTRAS*/
 
 body.nosotrashtml {
     background-color: #333;
@@ -237,6 +238,13 @@ body.nosotrashtml {
 .nosotras h1{
     text-align: center;
 background-color: rgb(204, 165, 228);
+}
+.nosotras h2{
+    color: #ddd;
+}
+.nosotras p{
+    text-align: center;
+    color: #ddd;
 }
 
 
