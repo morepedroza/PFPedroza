@@ -30,12 +30,10 @@ header{
 .logo{
     display: flex;
     align-items: center;
-}
-
-.logo{
     height: 40px;
     width: auto;
 }
+
 .search {
     padding: 5px 10px;
     border: 1px solid #ddd;
